@@ -81,13 +81,13 @@ const ApologyPage: React.FC<ApologyPageProps> = ({ data, content }) => {
               <Sparkles className="absolute top-0 right-1/3 w-8 h-8 text-yellow-400 animate-bounce-subtle" />
             </div>
             <h1 className="text-4xl md:text-5xl font-serif font-bold text-slate-800 mb-4">
-              Thank You!
+              Thank You my baby!
             </h1>
             <p className="text-xl text-slate-600 mb-8 font-serif italic">
-              "My heart is whole again because of you."
+              "I promise or swear to make it up to you cutie."
             </p>
             <div className="text-rose-600 font-medium tracking-wide">
-                I promise to cherish this second chance.
+                Your Yuan is truly sorry and he Loves you very much :(
             </div>
         </div>
       </div>
